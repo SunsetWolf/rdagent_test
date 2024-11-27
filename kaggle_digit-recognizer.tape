@@ -1,5 +1,5 @@
-Output general_model.mp4
-Output general_model.gif
+Output kaggle_digit-recognizer.mp4
+Output kaggle_digit-recognizer.gif
 
 Set FontSize 25
 Set Width 1920

@@ -1,5 +1,5 @@
-Output general_model.mp4
-Output general_model.gif
+Output fin_factor_report.mp4
+Output fin_factor_report.gif
 
 Set FontSize 25
 Set Width 1920

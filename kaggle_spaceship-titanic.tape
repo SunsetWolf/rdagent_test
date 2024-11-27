@@ -1,5 +1,5 @@
-Output general_model.mp4
-Output general_model.gif
+Output kaggle_spaceship-titanic.mp4
+Output kaggle_spaceship-titanic.gif
 
 Set FontSize 25
 Set Width 1920

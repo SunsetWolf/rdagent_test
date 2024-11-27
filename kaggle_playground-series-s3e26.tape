@@ -1,5 +1,5 @@
-Output general_model.mp4
-Output general_model.gif
+Output kaggle_playground-series-s3e26.mp4
+Output kaggle_playground-series-s3e26.gif
 
 Set FontSize 25
 Set Width 1920

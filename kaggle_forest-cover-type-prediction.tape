@@ -1,5 +1,5 @@
-Output general_model.mp4
-Output general_model.gif
+Output kaggle_forest-cover-type-prediction.mp4
+Output kaggle_forest-cover-type-prediction.gif
 
 Set FontSize 25
 Set Width 1920

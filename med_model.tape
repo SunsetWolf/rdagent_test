@@ -1,5 +1,5 @@
-Output general_model.mp4
-Output general_model.gif
+Output med_model.mp4
+Output med_model.gif
 
 Set FontSize 25
 Set Width 1920

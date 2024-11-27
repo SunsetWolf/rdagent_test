@@ -1,5 +1,5 @@
-Output general_model.mp4
-Output general_model.gif
+Output fin_model.mp4
+Output fin_model.gif
 
 Set FontSize 25
 Set Width 1920
